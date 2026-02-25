@@ -7,6 +7,8 @@
 ## 📌 專案概述
 本專案為一套高性能的自動化數據採集工具，專為蒐集 **歐盟產品資料庫 (EPREL)** 中的「專業商用冷凍冷藏櫃 (Professional Refrigerated Storage Cabinets)」節能標籤數據而開發。
 
+**歐盟產品資料庫 (EPREL)**:https://eprel.ec.europa.eu/screen/product/professionalrefrigeratedstoragecabinets
+
 透過自動化流程，本系統能處理數萬筆產品資訊，實時攔截後端 API 數據，並自動完成清洗、去重與能源等級分類。
 
 ## ✨ 核心功能
